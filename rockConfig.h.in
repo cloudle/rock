@@ -1,0 +1,3 @@
+// the configured options and settings for Tutorial
+#define majorVersion @majorVersion@
+#define minorVersion @minorVersion@
